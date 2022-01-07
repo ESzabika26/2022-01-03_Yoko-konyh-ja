@@ -124,3 +124,15 @@ header {
 	margin-right: 40px;
 	display: inline-block;
   }
+
+  nav li{
+	width: 98%;
+}
+
+article p {
+  text-align: justify;
+}
+
+hgroup {
+  margin-top: 40px;
+}
